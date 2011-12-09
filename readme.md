@@ -21,7 +21,7 @@ bash:
 
     bundle install
 
-    rails g refinerycms_calendar
+    rails g refinerycms:calendar
 
     rake db:migrate
 
