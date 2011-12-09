@@ -13,7 +13,7 @@ module Refinery
           plugin.pathname = root
           plugin.name = "refinery_calendars"
           plugin.url = app.routes.url_helpers.refinery_admin_calendars_path
-          plugin.menu_match = /^\/refinery\/inquir(ies|y_settings)$/
+          plugin.menu_match = /^\/refinery\/calenda(rs|r_settings)$/
           plugin.activity = {
             :class_name => :'refinery/calendar',
             :title => 'name',

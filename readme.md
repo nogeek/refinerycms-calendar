@@ -15,7 +15,7 @@
 
 Using Rails 3 / Bundler Gemfile:
 
-    gem 'refinerycms-calendar', '~>1.1.0'
+    gem 'refinerycms-calendars', '~>1.1.0'
 
 bash:
 
