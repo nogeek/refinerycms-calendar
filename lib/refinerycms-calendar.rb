@@ -1,4 +1,4 @@
-require 'refinery'
+require 'refinery/calendar'
 
 module Refinery
   module Calendar
